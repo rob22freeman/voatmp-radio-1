@@ -4,7 +4,7 @@
 	import * as Nunjucks from "nunjucks";
 	import { parse } from "path";
 	import { Context } from "vm";
-	// Testing source control - RF
+
 	export class RadioList implements ComponentFramework.StandardControl<IInputs, IOutputs> {
 	
 		// Reference to the control container HTMLDivElement
